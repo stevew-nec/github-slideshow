@@ -1,6 +1,6 @@
 3.	---
 4.	
-5.	layout: slide
+'a rather witty comment'
 6.	
 7.	title: "Welcome to our second slide!"
 8.	
